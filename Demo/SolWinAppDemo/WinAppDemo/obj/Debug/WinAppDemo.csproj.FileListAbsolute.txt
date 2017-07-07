@@ -1,0 +1,15 @@
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.csprojResolveAssemblyReference.cache
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.AlumnoRegistrarForm.resources
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.Properties.Resources.resources
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.csproj.GenerateResource.Cache
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\WinAppDemo.exe.config
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\WinAppDemo.exe
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\WinAppDemo.pdb
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\Demo.BE.dll
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\Demo.BL.dll
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\Demo.DA.dll
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\Demo.BE.pdb
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\Demo.BL.pdb
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\bin\Debug\Demo.DA.pdb
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.exe
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.pdb

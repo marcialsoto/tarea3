@@ -1,0 +1,7 @@
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\Demo.DA\bin\Debug\Demo.DA.dll
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\Demo.DA\bin\Debug\Demo.DA.pdb
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\Demo.DA\bin\Debug\Demo.BE.dll
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\Demo.DA\bin\Debug\Demo.BE.pdb
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\Demo.DA\obj\Debug\Demo.DA.csprojResolveAssemblyReference.cache
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\Demo.DA\obj\Debug\Demo.DA.dll
+C:\Fuentes\Visual Studio\Demo\SolWinAppDemo\Demo.DA\obj\Debug\Demo.DA.pdb
